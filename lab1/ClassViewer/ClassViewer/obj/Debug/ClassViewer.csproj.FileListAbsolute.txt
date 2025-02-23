@@ -1,0 +1,10 @@
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\bin\Debug\ClassViewer.exe.config
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\bin\Debug\ClassViewer.exe
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\bin\Debug\ClassViewer.pdb
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.csproj.AssemblyReference.cache
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.Properties.Resources.resources
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.csproj.GenerateResource.cache
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.csproj.CoreCompileInputs.cache
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.exe
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.pdb
+D:\Education\LabWorks\Code\4Semester\OOP\lab1\ClassViewer\ClassViewer\obj\Debug\ClassViewer.Form1.resources
