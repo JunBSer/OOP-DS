@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using ClassViewer.Internal.Models;
+﻿using ClassViewer.Internal.Models;
 
 namespace ClassViewer.Internal
 {

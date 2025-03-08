@@ -1,8 +1,4 @@
-﻿using System;
-using System.Drawing;
-using System.Windows.Forms;
-
-namespace ClassViewer.Internal.Models
+﻿namespace ClassViewer.Internal.Models
 {
     public abstract class Transport
     {
@@ -20,7 +16,12 @@ namespace ClassViewer.Internal.Models
 
         private int X;
         protected int Y;
-        
+
+
+        public Transport()
+        {
+            Console.WriteLine("Empty constructor");
+        }
         
         protected Transport(string name, int speed)
         {
@@ -53,7 +54,7 @@ namespace ClassViewer.Internal.Models
 
         protected void LoadImage(string path)
         {
-            string fullPath = $"..\\..\\Resources\\{path}.jpg";
+            string fullPath = $"..\\..\\..\\Resources\\{path}.jpg";
             
             if (Image!=null)
                 Image.Dispose();

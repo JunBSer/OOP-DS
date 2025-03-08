@@ -1,0 +1,15 @@
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\bin\Debug\net8.0-windows\ClassViewer.exe
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\bin\Debug\net8.0-windows\ClassViewer.deps.json
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\bin\Debug\net8.0-windows\ClassViewer.runtimeconfig.json
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\bin\Debug\net8.0-windows\ClassViewer.dll
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\bin\Debug\net8.0-windows\ClassViewer.pdb
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.AssemblyInfoInputs.cache
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.AssemblyInfo.cs
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.csproj.CoreCompileInputs.cache
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.sourcelink.json
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.dll
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\refint\ClassViewer.dll
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.pdb
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ClassViewer.genruntimeconfig.cache
+D:\Education\LabWorks\Code\4Semester\OOP\lab1NEW\ClassViewer\ClassViewer\obj\Debug\net8.0-windows\ref\ClassViewer.dll

@@ -1,15 +1,11 @@
-﻿using System;
-using System.Drawing;
-using System.Windows.Forms;
-
-namespace ClassViewer.Internal.Models
+﻿namespace ClassViewer.Internal.Models
 {
     public abstract class Aircraft: Transport
     {
         private int MaxAttitude { get; }
 
-        protected Aircraft(string name, int speed, int maxAttitude)
-            : base(name, speed)
+        protected Aircraft(string name, int speed, int maxAttitude):
+            base(name, speed)
         {
             this.MaxAttitude = maxAttitude;
         }

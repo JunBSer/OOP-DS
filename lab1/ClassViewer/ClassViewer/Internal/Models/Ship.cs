@@ -1,8 +1,4 @@
-﻿using System;
-using System.Drawing;
-using System.Windows.Forms;
-
-namespace ClassViewer.Internal.Models
+﻿namespace ClassViewer.Internal.Models
 {
     public class Ship:WaterTransport
     {
@@ -14,7 +10,6 @@ namespace ClassViewer.Internal.Models
         {
             this.DeckCount = deckCount;
             this.FuelLvl = fuelLvl;
-            LoadImage("ship");
         }
 
         public override string DisplayInfo()
